@@ -6,6 +6,7 @@ return {
         settings = {
           exportPdf = "onSave",
           outputPath = "$dir/out/$name",
+          renderDocs = "disable",
         },
       },
     },
