@@ -5,7 +5,7 @@ return {
       tinymist = {
         settings = {
           exportPdf = "onSave",
-          outputPath = "$dir/out/$name",
+          outputPath = "$root/out/$name",
           renderDocs = "disable",
         },
       },
